@@ -77,13 +77,13 @@ Ook is er verteld dat het soms handig kan zijn om een frisse en schone omgeving 
 6. Check aan de hand van het voorbeeld of je alles goed gedaan hebt
 7. Copy/paste als laatste jullie toegevoegde svelte code terug in ``/routes/+page.svelte``
 
-## Donderdag 12/09
+## 📆 Donderdag 12/09
 
 ### Wat heb ik vandaag gedaan/geleerd?
 
 Vandaag ben ik verder gegaan met mijn visitekaartje en ben ik bezig geweest met de styling hiervan. 
 
-## Vrijdag 13/09
+## 📆 Vrijdag 13/09
 
 ### Wat heb ik vandaag gedaan/geleerd?
 
@@ -93,7 +93,7 @@ Hierna hebben wij een code/design review gehad en andere teams gereviewed.
 
 # Week 3
 
-## Maandag 16/09
+## 📆 Maandag 16/09
 
 ### Wat heb ik vandaag gedaan/geleerd?
 
@@ -103,13 +103,13 @@ Als … , wil ik … , om (te) …
 
 Vervolgens hebben mijn team en ik dit gehanteerd in ons projectboard en hier meer tasks in gedaan aan de hand van het gegeven college en deze labels aan gegeven met de Moscow methode en planningpoker. 
 
-## Dinsdag 17/09
+## 📆 Dinsdag 17/09
 
 ### Wat heb ik vandaag gedaan/geleerd?
 
 Vandaag ben ik aan de slag gegaan met een feature in de detailpagina. Hierbij heb ik de HTML met daarin de opgehaalde data met de CSS. 
 
-## Woensdag 18/09
+## 📆 Woensdag 18/09
 
 ### Wat heb ik vandaag gedaan/geleerd?
 
