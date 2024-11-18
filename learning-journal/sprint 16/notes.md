@@ -120,3 +120,96 @@ Maak in Figma nieuwe variaties van jouw component.
 ## Wat heb ik vandaag gedaan?
 
 Vandaag heb ik aan de opdrachten gewerkt die tijdens het college gegeven zijn. Bij deze heb ik gekeken naar de typografie en visuele hierarchie van mijn design. Deze punten en feedback heb ik verwerkt om een beter design van mijn component te krijgen. Verder heb ik ook een begin gemaakt met het maken van het component in Sveltekit.
+
+## 📆 Donderdag 14 november
+
+## 📆 Vrijdag 15 november
+
+### Wat heb ik vandaag gedaan?
+
+In de ochtend ben ik gaan mentoren. Hier hebben zij een ander groepje gereviewed over de stylesheet. Ik heb hierbij geassisteerd bij twee groepen en vragen beantwoord, over onder andere code, issues schrijven en design.
+
+## 📆 Maandag 18 november
+
+### Wat heb ik geleerd?
+
+College: Advanced Components Concept
+
+We're not designing pages, we're desigining systems of components.
+
+Component library: een verzameling herbruikbare en generieke componenten die je aan je project kunt toevoegen, er bestaan vele standaard component libraries die je kunt downloaden en gebruiken.
+
+Het gebruik van een component library:
+
+- Versnelt ontwikkeling door hergebruikt
+- Zorgt voor consistentie in je projecten
+- Vergroot de onderhoudbaarheid
+
+Het gevaar van component libraries:
+
+- Grotere kans op fout
+- Alles ziet er hetzelfde uit
+- Vergroot de chaos
+
+Chaos bedwingen door:
+
+- Naamgeving van componenten
+- Naamgeving van variaties van componenten
+- Naamgeving van properties binnen componenten
+- Metanaamgeving: componenten, patronen, etc. indeling van de $lib folder
+
+Metanaamgeving = een hierarchische benadering om het over bepaalde soorten componenten te hebben
+
+- Geneste componenten
+- Variaties op componenten
+- Samengestelde componenten
+
+Structuur
+
+- Pages: volledige pagina's of schermen met een specifieke context bestaand uit sections
+- Sections: secties van een pagina bestaand uit componenten
+- Components: herbruikbare componenten, zoals buttons, forms.
+
+Voorbeelden van structuren/ indelingen binnen component libraries:
+
+Functional Layering
+
+- Inputs: componenten voor gebruikersinvoer (buttons, forms)
+- Display: componenten voor weergeven van informatie (tabellen en grafieken)
+- Navigation: componenten voor navigatie (menu, breadcrumbs)
+- Structural: layout-elementen die structuur bieden (grids, containers)
+
+LEGO
+
+- Bricks: kleine, niet herbruikbare stukjes (icoon, tekstblokjes)
+- Blocks: herbruikbare basis componenten (button of image)
+- Assemblage: geocmbineerde componenten met een specifieke functie (form, card)
+- Constructions: complexe pagina secties of templates (dashboard)
+
+Atomic Design
+
+- Atoms: basis bouwblokken van je pagina: button, label, input.
+- Molecules: een groep atomen bij elkaar, een search form met een input, label en button
+- Organism: een groep moleculen die samen een sectie vormen van je website, een header balk met een zoekformulier
+- Templates: een group organismen die samen een paginatype vormen
+- Pages: ingevulde template met inhoud
+
+Presenter-containers
+
+- Presentational components: UI-specifieke, stateless componenten die bepalen hoe data getoond wordt (bijvoorbeeld image)
+
+- Container components: componenten die de prestational components van data voorzien en hun gedrag bepalen
+
+- Compositions: combinatie van beide die specifieke pagina-secties vormen.
+
+Sveltekit 5
+
+Er is een nieuwe sveltekit versie, waarbij er sommige dingen die wij nu gewend zijn deprecated zijn. Hierbij moeten wij nu werken met `runes` ipv `slots` & `$$restProps`.
+Ook het gebruiken van snippets is een nieuwe feature, waarbij je bijvoorbeeld in een if/else statement.
+
+Bronnen:
+
+- [Runes](https://svelte.dev/docs/svelte/what-are-runes)
+- [Snippets](https://svelte.dev/docs/svelte/snippet)
+
+### Wat heb ik gedaan?
