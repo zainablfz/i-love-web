@@ -213,3 +213,54 @@ Bronnen:
 - [Snippets](https://svelte.dev/docs/svelte/snippet)
 
 ### Wat heb ik gedaan?
+
+## 📆 Maandag 20 november
+
+### Wat heb ik geleerd?
+
+The New Responsive
+
+User-preference styles (queries): prefers-contrast, prefers-reduced-motion, prefers-color-scheme
+Viewport and form-factor media queries.
+Macro layouts: container styles/queries, macro components that contains other components
+
+De anatomie van een media-query
+
+1. Aanroepen van de media query
+2. Media types: screen, print, all, etc
+3. Media features
+4. De conditie waaraan voldaan moet worden
+
+Opdracht: Onderzoek met je tafel bij de media queries specificaties van het W3C welke media features van media queries er zijn in level 3, 4 en 5.
+
+User preference media features level 5
+
+- Prefers-reduced-motion
+- Prefers-reduced-transparency
+- Prefers-reduced-contrast
+- Forced-colors
+- Prefers-color-scheme
+- Prefers-reduced-data
+
+Prefers-reduced motion: @media (prefers-reduced-motion: no-preference)
+
+Container-Queries & Container-style-queries
+Responsive to the form factor
+
+- @media (spanning: single-fold-vertical)
+- @media (horizontal-vierport-segments-2)
+
+Opdracht: The New Responsive
+
+Bespreek een strategie hoe je de drie onderdelen kan toepassen op jullie component library
+
+Noteer per onderdeel van het artikel minimaal 1 ding dat je nog niet kent, zoek een bron en maak aantekeningen in je learning journal zodat je het later nog een keer kan onderzoeken.
+
+Bronnen:
+
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+- [New-responsive](https://web.dev/articles/new-responsive)
+- [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [W3C - Media Queries](https://www.w3.org/TR/mediaqueries-4/)
+- [CSS Tricks - Color Scheme](https://css-tricks.com/almanac/properties/c/color-scheme/)
+- Codepen Container Queries - Miriam Suzanne
