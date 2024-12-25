@@ -264,3 +264,51 @@ Bronnen:
 - [W3C - Media Queries](https://www.w3.org/TR/mediaqueries-4/)
 - [CSS Tricks - Color Scheme](https://css-tricks.com/almanac/properties/c/color-scheme/)
 - Codepen Container Queries - Miriam Suzanne
+
+## 📆 Maandag 25 november
+
+### Wat heb ik geleerd?
+
+State Management
+
+- Shared Persistent State
+
+Je wilt niet dat het dingen onthoud die voor alle gebruikers gelden.
+
+- Non Shared Non Persistent State
+
+- Non Shared Semi Persistent State
+
+- Non Shared Persistent State
+
+## 📆 Maandag 2 december
+
+### Wat heb ik geleerd?
+
+Sprint 17: User Needs
+
+Programming Spikes and Creative Coding
+
+Coding Spike: is a type of computer programming in which the goal is to create something to expressive instead of something functional.
+
+Kan de gebruiker verrast worden met een bijzondere interactie?
+
+Deeltaak Creative Coding Spike
+
+- Doe vooronderzoek en bepaal jouw stijl
+- Schets jouw concept. Bedenk welke interacties, animaties en geluidsondersteuning je nodig hebt.
+- Maak een breakdown Schets
+- Implementeer jouw concept
+-
+
+## 📆 Woensdag 4 december
+
+### Wat heb ik geleerd?
+
+Compositie in Web Design
+
+## 📆 Woensdag 11 december
+
+### Wat heb ik geleerd?
+
+Kleur in Web Design
