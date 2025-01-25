@@ -312,3 +312,44 @@ Compositie in Web Design
 ### Wat heb ik geleerd?
 
 Kleur in Web Design
+
+## Woensdag 8 Januari
+
+## Wat heb ik geleerd?
+
+Animaties in GSAP van Joost
+
+GSAP is een animation library in JavaScript.
+
+## Maandag 3 Januari
+
+Clean Code & Refactoring
+
+Schrijven van clean code is wat je doet om jezelf professional te noemen. Clean code kan worden gelezen en verbeterd worden door developers dan de oorspronkelijka auteur.
+
+"Try and leave this world a little better than you found it"
+
+Als we allemaal onze code net iets schoner inchecken dan toen we die uitcheckten, zou de code simpelweg niet kunnen verouderen. Opruimen hoeft niets groots te zijn.
+
+- Gebruik betekenisvolle namen, duidelijke namen voor variabelen, functies en bestanden. Vermijd cryptische afkortingen zoals a, x, data of temp.
+- Schrijf kleine functies. Ze moeten slechts een verantwoordelijkheid hebben, met zo min mogelijk parameters max 2, anders een object meegeven. Voorkom side effects: dingen die buiten de scope van de functie vallen.
+- Gebruik goed commentaar, Less is More. Goede code heeft weinig commentaar nodig omdat het zichzelf uitlegt, Gebruik commentaar alleen
+- Maak code leesbaar. Inspringen, witruimte en consistentie
+
+Refactoring is een proces van het verbeteren van de structuur van code zonder het gedrag te veranderen.
+Het doel: code is leesbaarder, eenvoudiger te begrijpen, makkelijker te onderhoudbaar en makkelijk uitbreidbaar te maken.
+
+- Hernoem functie declaratie: De handtekening van een functie omvat de naam, parameters en soms het returntype. Dit wordt gebruikt om een functie een duidelijke naam te geven, parameters wijzigen.
+- Splits conditionals op: complexe if/else statements vereenvoudigen
+- Vervang loops for pipelines: map, filter en reduce
+- Verwijder dode code: Overbodige of niet-gebruikte code wordt opgespoord en verwijderd uit de codebase
+- Verschuif statements: Herpositioneren van code binnen een methode om de leesbaarheid en logische volgorde te verbeteren.
+
+Sveltekit Best Practices
+
+Performance pagina in documentatie
+
+Performance testen in build mode (npm run build) (npm run preview)
+npm install @sveltejs/enhanced-image
+svelte.config
+enhanced:image
